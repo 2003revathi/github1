@@ -1,1 +1,3 @@
 code txt2
+now i am editing tis file for first time
+to understanding pull keyword in vscode terminal
